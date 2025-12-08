@@ -170,10 +170,11 @@ Environment Variables
 Create .env:
 
 MONGO_URI=mongodb://127.0.0.1:27017/bookstore
-JWT_SECRET=yourjwtsecret
-EMAIL_USER=your-email@gmail.com
-EMAIL_PASS=your-app-password
+JWT_SECRET=mysecret123
+EMAIL_USER=rahulrajrollno.25tmp@gmail.com
+EMAIL_PASS=enajzrvgxhnsfjgw
 REDIS_URL=redis://127.0.0.1:6379
+
 
 Start server
 npm run dev
